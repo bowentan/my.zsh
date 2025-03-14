@@ -176,6 +176,7 @@ alias zj='zellij'
 alias jjn='jj --no-pager'
 
 alias lzd='lazydocker'
+alias lzg='lazygit'
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 

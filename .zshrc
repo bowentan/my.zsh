@@ -87,6 +87,7 @@ plugins=(
     npm
     oc
     starship
+    pnpm # https://github.com/ntnyq/omz-plugin-pnpm.git
 )
 
 ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=245'

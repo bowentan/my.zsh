@@ -1,1 +1,1 @@
-Install Oh-my-zsh first
+Install [Oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh) first
